@@ -1,0 +1,6 @@
+*.zip
+data_subset/
+data_subset_45/
+processed_data/
+__pycache__/
+Brain_Tumor_Project_Explainer.pdf
